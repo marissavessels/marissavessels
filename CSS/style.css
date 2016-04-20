@@ -39,17 +39,18 @@ p {
 }
 
 .social-icons {
-    display: inline;
     width: 600px;
     margin: 0 auto;
+    clear: both;
 
 }
 
-.icons img {
+.social-icons img {
+    display: inline;
     height: 50px;
     width: 50px;
 }
 
-.icons img:hover {
+.social-icons img:hover {
     opacity: 0.5;
 }
