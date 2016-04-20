@@ -5,6 +5,15 @@ and (max-device-width : 667px) {
         width: 375px;
     }
     
+    .hero {
+        width: 100%;
+        
+    }
+    
+    .about {
+        width: 100%;
+    }
+    
 }
 
 
