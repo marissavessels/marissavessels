@@ -45,11 +45,11 @@ p {
 
 }
 
-.social-icons img {
+.icons img {
     height: 50px;
     width: 50px;
 }
 
-.social-icons img:hover {
+.icons img:hover {
     opacity: 0.5;
 }
