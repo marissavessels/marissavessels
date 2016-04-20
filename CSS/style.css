@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(249, 227, 255)
+}
+      
+      
 h1 {
     font-size: 2em;
     font-family: 'Open Sans', sans-serif;
@@ -15,7 +20,7 @@ p {
 .wrapper {
    width:600px;
    margin:0 auto;
-   position: absolute;
+   
 }
 .hero {
    float:left;
