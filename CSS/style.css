@@ -8,14 +8,10 @@
 }
 .hero {
    float:left;
-   width:300px;
+   width:35%;
 }
 
 .about {
    float:right;
-   width:300px;
-}
-
-.round {
-    border-radius: 50%;
+   width:60%;
 }
