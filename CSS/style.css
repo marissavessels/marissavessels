@@ -1,3 +1,13 @@
+@media only screen and
+(min-device-width : 375px) 
+and (max-device-width : 667px) {
+    .wrapper {
+        width: 375px;
+    }
+    
+}
+
+
 body {
     background-color: rgb(249, 227, 255)
 }
