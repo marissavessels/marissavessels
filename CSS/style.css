@@ -15,3 +15,7 @@
    float:right;
    width:300px;
 }
+
+.round {
+    border-radius: 50%;
+}
