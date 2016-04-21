@@ -1,4 +1,6 @@
-body {
+/* G E N E R A L   D E S I G N */
+
+.body {
     background-color: #EB6B56;
 }
       
@@ -19,6 +21,8 @@ p {
     margin: 0;
 }
 
+/* N A V I G A T I O N */
+
 .fixed-nav-bar {
   position: fixed;
   top: 0;
@@ -28,6 +32,9 @@ p {
   height: 50px;
   background-color: #FFF;
 }
+
+/* M A I N   C O N T E N T */
+
 
 .wrapper {
    width:60%;
@@ -52,6 +59,9 @@ p {
     width: 200px;
     border-radius: 50%;
 }
+
+
+/* S O C I A L   I C O N S */
 
 .social-icons {
     width: 60%;
@@ -83,6 +93,7 @@ p {
     display: inline-block;
     height: 30px;
     width: 30px;
+    padding: 5px 0px;
     margin: 5px;
 }
 
