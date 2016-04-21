@@ -43,15 +43,15 @@ p {
     border-radius: 50%;
 }
 
-.hero img:hover:before {
-  content: '';
-  display: block;
-  background: rgba(255, 0, 0, .5); /* your background */
-  width: 200px; /* image width */
-  height: 200px; /* image height */
-  position: absolute;
-  top: 0;
-  right: 0;
+.hero img:hover {
+    content: '';
+    position: absolute;
+    background-image: url('http://www.marissavessels.me/wp-content/uploads/2015/08/mondays-with-marissa-hello-there.png');
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    opacity: 0.5;
+}
 
 .social-icons {
     width: 60%;
