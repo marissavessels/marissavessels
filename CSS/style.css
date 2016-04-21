@@ -59,19 +59,20 @@ p {
 
 .button {
     border: none;
-    font-family: inherit;
-    font-size: inherit;
+    font-family: 'Open Sans';
+    font-size: 100;
     color: inherit;
-    background: none;
+    background: #586F8B;
     cursor: pointer;
-    padding: 25px 80px;
+    padding: 20px;
     display: inline-block;
-    margin: 15px 30px;
+    margin: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
     outline: none;
     position: relative;
+    border-radius: 7px;
 }
 
 .button:hover {
