@@ -72,5 +72,24 @@ p {
     opacity: 0.5;
 }
 
+.nav-social-icons {
+    margin: 0 auto;
+    clear: both;
+    text-align: right;
+
+}
+
+.nav-social-icons img {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.nav-social-icons img:hover {
+    opacity: 0.5;
+}
+
 
 
