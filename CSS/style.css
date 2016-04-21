@@ -46,7 +46,7 @@ p {
 }
 
 .social-icons img {
-    display: block;
+    display: inline-block;
     height: 25px;
     width: 25px;
     padding: 5px;
