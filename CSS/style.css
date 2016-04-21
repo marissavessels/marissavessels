@@ -77,6 +77,22 @@ p {
 }
 
 .button:hover {
+    border: none;
+    font-family: 'Open Sans';
+    font-size: 1em;
+    font-weight: 300;
+    color: inherit;
+    background: #F37F26;
+    cursor: pointer;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    outline: none;
+    position: relative;
+    border-radius: 7px;
     
 }
 
