@@ -81,7 +81,7 @@ p {
 
 }
 
-.social-icons img {
+.social-icons img:a {
     display: inline-block;
     height: 30px;
     width: 30px;
