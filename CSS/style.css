@@ -20,7 +20,7 @@ p {
 }
 
 .wrapper {
-   width:70%;
+   width:60%;
    margin:20px auto;
    
 }
@@ -43,8 +43,15 @@ p {
     border-radius: 50%;
 }
 
+.hero img:hover {
+    background-image: url('https://cdn.atlassbx.com/FB/11087206861372/1Cloud_AzurePlat-H2_Banner1a_StaticBanner_EN_US_300x250.gif');
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
 .social-icons {
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
     clear: both;
     text-align: center;
