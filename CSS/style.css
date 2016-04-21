@@ -23,19 +23,17 @@ p {
    
 }
 
-/* removing two column layout
-
 .hero {
-   float:left;
-   width:35%;
+   text-align: center;
 }
 
 .about {
-   float:right;
-   width:60%;
+   text-align: center;
 }
 
-*/
+.about p {
+    text-align: left;
+}
 
 .hero img {
     height: 200px;
