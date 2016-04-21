@@ -44,12 +44,6 @@ p {
 }
 
 .hero img:hover {
-    content: '';
-    position: absolute;
-    background-image: url('http://www.marissavessels.me/wp-content/uploads/2015/08/mondays-with-marissa-hello-there.png');
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
     opacity: 0.5;
 }
 
