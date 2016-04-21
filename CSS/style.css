@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(249, 227, 255)
+    background-color: #EB6B56;
 }
       
       
@@ -62,18 +62,17 @@ p {
     font-family: 'Open Sans';
     font-size: 1em;
     font-weight: 300;
-    color: inherit;
+    color: #FFFFFF;
     background: #586F8B;
     cursor: pointer;
-    padding: 20px;
+    padding: 15px;
     display: inline-block;
     margin: 10px;
-    text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
     outline: none;
     position: relative;
-    border-radius: 7px;
+    border-radius: 5px;
 }
 
 .button:hover {
@@ -81,18 +80,15 @@ p {
     font-family: 'Open Sans';
     font-size: 1em;
     font-weight: 300;
-    color: inherit;
-    background: #F37F26;
+    color: #FFFFFF;
+    background: #586F8B;
     cursor: pointer;
-    padding: 20px;
+    padding: 15px;
     display: inline-block;
     margin: 10px;
-    text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
     outline: none;
     position: relative;
-    border-radius: 7px;
-    
+    border-radius: 5px;
 }
-
