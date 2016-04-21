@@ -93,6 +93,11 @@ p {
     border-radius: 5px;
 }
 
-.button link {
+.button a {
     text-decoration: none;
+}
+
+.button-wrapper {
+    width:600px;
+    margin:20px auto;
 }
