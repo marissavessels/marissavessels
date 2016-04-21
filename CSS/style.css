@@ -63,7 +63,7 @@ p {
     font-size: 1em;
     font-weight: 300;
     color: #FFFFFF;
-    background: #586F8B;
+    background: #54acd2;
     cursor: pointer;
     padding: 15px;
     display: inline-block;
@@ -81,7 +81,7 @@ p {
     font-size: 1em;
     font-weight: 300;
     color: #FFFFFF;
-    background: #586F8B;
+    background: #3d8eb9;
     cursor: pointer;
     padding: 15px;
     display: inline-block;
@@ -91,4 +91,8 @@ p {
     outline: none;
     position: relative;
     border-radius: 5px;
+}
+
+.button link {
+    text-decoration: none;
 }
