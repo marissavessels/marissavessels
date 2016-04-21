@@ -73,6 +73,7 @@ p {
 
 /* S O C I A L   I C O N S */
 
+/*
 .social-icons {
     width: 60%;
     margin: 0 auto;
@@ -81,7 +82,7 @@ p {
 
 }
 
-.social-icons img:a {
+.social-icons img {
     display: inline-block;
     height: 30px;
     width: 30px;
@@ -91,15 +92,17 @@ p {
 .social-icons img:hover {
     opacity: 0.5;
 }
+*/
 
 .nav-social-icons {
+    display: inline-block;
     margin: 0 auto;
     clear: both;
     text-align: right;
 
 }
 
-.nav-social-icons img {
+.nav-social-icons img:a {
     display: inline-block;
     height: 30px;
     width: 30px;
