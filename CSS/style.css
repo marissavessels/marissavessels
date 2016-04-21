@@ -60,7 +60,8 @@ p {
 .button {
     border: none;
     font-family: 'Open Sans';
-    font-size: 100;
+    font-size: 2em;
+    font-weight: 100;
     color: inherit;
     background: #586F8B;
     cursor: pointer;
